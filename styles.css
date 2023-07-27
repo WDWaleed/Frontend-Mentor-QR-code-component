@@ -7,7 +7,7 @@
     font-family: 'Outfit', sans-serif;
 }
 
-div {
+.qr-code-container {
     width: 300px;
     height: auto;
     display: flex;
