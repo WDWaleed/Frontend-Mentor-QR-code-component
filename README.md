@@ -11,13 +11,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Screenshot
 
-![](./Screenshot 2023-06-29 at 09-26-54 QR Code Component.png)
+![](https://github.com/WDWaleed/Frontend-Mentor-QR-code-component/blob/main/Screenshot%202023-06-29%20at%2009-26-54%20QR%20Code%20Component.png)
 
 ## Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github repo](https://github.com/WDWaleed/Frontend-Mentor-QR-code-component/tree/main)
+- Live Site URL: [WDWaleed.github.io](https://wdwaleed.github.io/Frontend-Mentor-QR-code-component/)
 
 ## Author
-- Frontend Mentor - [@MWA-Waleed-Ahmed](https://www.frontendmentor.io/profile/MWA-Waleed-Ahmed)
+- Frontend Mentor - [@WDWaleed](https://www.frontendmentor.io/profile/WDWaleed)
 - Twitter - [@MWA_WebDev](https://twitter.com/MWA_WebDev)
